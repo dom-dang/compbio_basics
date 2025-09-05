@@ -3,7 +3,7 @@
 Author: Dominique Dang (ddang@mit.edu)
   
 ## Purpose
-Bare bone scripts for simple computational analysis
+Trying to collect some basic frameworks for comp bio analysis!
 * Data Preprocessing & Normalization
 * pyDeseq2
 * GSEA
